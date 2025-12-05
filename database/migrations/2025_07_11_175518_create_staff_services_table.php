@@ -13,8 +13,10 @@ return new class extends Migration
     {
         Schema::create('staff_services', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('staff_id')->constrained('staff')->onDelete('cascade');
-            $table->foreignId('service_id')->constrained('services')->onDelete('cascade');
+            $table->foreignId('staff_id');
+            $table->foreign('staff_id', 'fk_staff_services_staff_id')->references('id')->on('staff')->onDelete('cascade');
+            $table->foreignId('service_id');
+            $table->foreign('service_id', 'fk_staff_services_service_id')->references('id')->on('services')->onDelete('cascade');
             $table->enum('proficiency_level', ['beginner', 'intermediate', 'expert', 'master'])->default('intermediate');
             $table->timestamps();
             

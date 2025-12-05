@@ -14,10 +14,14 @@ return new class extends Migration
         Schema::create('bookings', function (Blueprint $table) {
             $table->id();
             $table->string('booking_reference', 20)->unique();
-            $table->foreignId('branch_id')->constrained('branches')->onDelete('cascade');
-            $table->foreignId('service_id')->constrained('services')->onDelete('cascade');
-            $table->foreignId('client_id')->constrained('users')->onDelete('cascade');
-            $table->foreignId('staff_id')->nullable()->constrained('staff')->onDelete('set null');
+            $table->foreignId('branch_id');
+            $table->foreign('branch_id', 'fk_bookings_branch_id')->references('id')->on('branches')->onDelete('cascade');
+            $table->foreignId('service_id');
+            $table->foreign('service_id', 'fk_bookings_service_id')->references('id')->on('services')->onDelete('cascade');
+            $table->foreignId('client_id');
+            $table->foreign('client_id', 'fk_bookings_client_id')->references('id')->on('users')->onDelete('cascade');
+            $table->foreignId('staff_id')->nullable();
+            $table->foreign('staff_id', 'fk_bookings_staff_id')->references('id')->on('staff')->onDelete('set null');
             $table->date('appointment_date');
             $table->time('start_time');
             $table->time('end_time');

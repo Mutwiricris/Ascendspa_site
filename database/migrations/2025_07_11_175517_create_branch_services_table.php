@@ -13,8 +13,10 @@ return new class extends Migration
     {
         Schema::create('branch_services', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('branch_id')->constrained('branches')->onDelete('cascade');
-            $table->foreignId('service_id')->constrained('services')->onDelete('cascade');
+            $table->foreignId('branch_id');
+            $table->foreign('branch_id', 'fk_branch_services_branch_id')->references('id')->on('branches')->onDelete('cascade');
+            $table->foreignId('service_id');
+            $table->foreign('service_id', 'fk_branch_services_service_id')->references('id')->on('services')->onDelete('cascade');
             $table->boolean('is_available')->default(true);
             $table->decimal('custom_price', 8, 2)->nullable(); // override default price
             $table->timestamps();

@@ -26,7 +26,7 @@
       <div class="row">
       <div class="col-md-4">
         <div class="subtitle">Starting From</div>
-        <h2>$65</h2>
+        <h2>KES 2,800</h2>
       </div>
       <div class="col-md-8">
         <h3>Our hair services offer professional treatments for beautiful, healthy hair. From classic cuts to modern styling, hair coloring to specialized treatments, we provide comprehensive hair care in a luxurious salon environment.</h3>
@@ -158,7 +158,7 @@
         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
           <div class="d-flex justify-content-between align-items-center">
           <h3 class="mb-0">Classic Haircut</h3>
-          <div>From $65</div>
+          <div>From KES 2,800</div>
           </div>
         </div>
         <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -177,7 +177,7 @@
         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
           <div class="d-flex justify-content-between align-items-center">
           <h3 class="mb-0">Hair Coloring</h3>
-          <div>From $95</div>
+          <div>From KES 4,200</div>
           </div>
         </div>
         <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -196,7 +196,7 @@
         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
           <div class="d-flex justify-content-between align-items-center">
           <h3 class="mb-0">Hair Styling</h3>
-          <div>From $55</div>
+          <div>From KES 3,500</div>
           </div>
         </div>
         <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -215,7 +215,7 @@
         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
           <div class="d-flex justify-content-between align-items-center">
           <h3 class="mb-0">Highlights</h3>
-          <div>From $120</div>
+          <div>From KES 5,800</div>
           </div>
         </div>
         <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -234,7 +234,7 @@
         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
           <div class="d-flex justify-content-between align-items-center">
           <h3 class="mb-0">Hair Treatment</h3>
-          <div>From $75</div>
+          <div>From KES 3,900</div>
           </div>
         </div>
         <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -253,7 +253,7 @@
         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
           <div class="d-flex justify-content-between align-items-center">
           <h3 class="mb-0">Blowout</h3>
-          <div>From $45</div>
+          <div>From KES 2,500</div>
           </div>
         </div>
         <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -274,39 +274,39 @@
         <div class="relative rounded-1 overflow-hidden">
           <div class="d-flex bg-light px-4 py-2">
           <div class="w-60">Classic Haircut</div>
-          <div class="w-40 fw-600">$65</div>
+          <div class="w-40 fw-600">KES 2,800</div>
           </div>
           <div class="d-flex px-4 py-2">
           <div class="w-60">Hair Coloring</div>
-          <div class="w-40 fw-600">$95</div>
+          <div class="w-40 fw-600">KES 4,200</div>
           </div>
           <div class="d-flex bg-light px-4 py-2">
           <div class="w-60">Hair Styling</div>
-          <div class="w-40 fw-600">$55</div>
+          <div class="w-40 fw-600">KES 3,500</div>
           </div>
           <div class="d-flex px-4 py-2">
           <div class="w-60">Highlights</div>
-          <div class="w-40 fw-600">$120</div>
+          <div class="w-40 fw-600">KES 5,800</div>
           </div>
           <div class="d-flex bg-light px-4 py-2">
           <div class="w-60">Hair Treatment</div>
-          <div class="w-40 fw-600">$75</div>
+          <div class="w-40 fw-600">KES 3,900</div>
           </div>
           <div class="d-flex px-4 py-2">
           <div class="w-60">Blowout</div>
-          <div class="w-40 fw-600">$45</div>
+          <div class="w-40 fw-600">KES 2,500</div>
           </div>
           <div class="d-flex bg-light px-4 py-2">
           <div class="w-60">Hair Extensions</div>
-          <div class="w-40 fw-600">$150</div>
+          <div class="w-40 fw-600">KES 6,700</div>
           </div>
           <div class="d-flex px-4 py-2">
           <div class="w-60">Keratin Treatment</div>
-          <div class="w-40 fw-600">$200</div>
+          <div class="w-40 fw-600">KES 8,500</div>
           </div>
           <div class="d-flex px-4 bg-light py-2">
           <div class="w-60">Hair Consultation</div>
-          <div class="w-40 fw-600">$25</div>
+          <div class="w-40 fw-600">KES 2,000</div>
           </div>
         </div>
         </div>

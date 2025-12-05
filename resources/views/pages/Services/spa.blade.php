@@ -26,7 +26,7 @@
     <div class="row">
     <div class="col-md-4">
     <div class="subtitle">Starting From</div>
-    <h2>$95</h2>
+    <h2>KES 3,800</h2>
     </div>
     <div class="col-md-8">
     <h3>Our spa treatments offer professional wellness services for total relaxation and rejuvenation. From body wraps to aromatherapy sessions, detox treatments to couples packages, we provide comprehensive spa experiences in a tranquil environment.</h3>
@@ -158,7 +158,7 @@
     <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
       <div class="d-flex justify-content-between align-items-center">
       <h3 class="mb-0">Body Wrap</h3>
-      <div>From $95</div>
+      <div>From KES 3,800</div>
       </div>
     </div>
     <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -177,7 +177,7 @@
     <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
       <div class="d-flex justify-content-between align-items-center">
       <h3 class="mb-0">Detox Treatment</h3>
-      <div>From $110</div>
+      <div>From KES 4,900</div>
       </div>
     </div>
     <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -196,7 +196,7 @@
     <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
       <div class="d-flex justify-content-between align-items-center">
       <h3 class="mb-0">Aromatherapy Session</h3>
-      <div>From $85</div>
+      <div>From KES 3,200</div>
       </div>
     </div>
     <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -215,7 +215,7 @@
     <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
       <div class="d-flex justify-content-between align-items-center">
       <h3 class="mb-0">Couples Spa Package</h3>
-      <div>From $250</div>
+      <div>From KES 10,500</div>
       </div>
     </div>
     <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -234,7 +234,7 @@
     <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
       <div class="d-flex justify-content-between align-items-center">
       <h3 class="mb-0">Salt Scrub</h3>
-      <div>From $75</div>
+      <div>From KES 2,900</div>
       </div>
     </div>
     <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -253,7 +253,7 @@
     <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
       <div class="d-flex justify-content-between align-items-center">
       <h3 class="mb-0">Relaxation Package</h3>
-      <div>From $150</div>
+      <div>From KES 6,400</div>
       </div>
     </div>
     <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
@@ -274,39 +274,39 @@
     <div class="relative rounded-1 overflow-hidden">
       <div class="d-flex bg-light px-4 py-2">
       <div class="w-60">Body Wrap</div>
-      <div class="w-40 fw-600">$95</div>
+      <div class="w-40 fw-600">KES 3,800</div>
       </div>
       <div class="d-flex px-4 py-2">
       <div class="w-60">Detox Treatment</div>
-      <div class="w-40 fw-600">$110</div>
+      <div class="w-40 fw-600">KES 4,900</div>
       </div>
       <div class="d-flex bg-light px-4 py-2">
       <div class="w-60">Aromatherapy Session</div>
-      <div class="w-40 fw-600">$85</div>
+      <div class="w-40 fw-600">KES 3,200</div>
       </div>
       <div class="d-flex px-4 py-2">
       <div class="w-60">Couples Spa Package</div>
-      <div class="w-40 fw-600">$250</div>
+      <div class="w-40 fw-600">KES 10,500</div>
       </div>
       <div class="d-flex bg-light px-4 py-2">
       <div class="w-60">Salt Scrub</div>
-      <div class="w-40 fw-600">$75</div>
+      <div class="w-40 fw-600">KES 2,900</div>
       </div>
       <div class="d-flex px-4 py-2">
       <div class="w-60">Relaxation Package</div>
-      <div class="w-40 fw-600">$150</div>
+      <div class="w-40 fw-600">KES 6,400</div>
       </div>
       <div class="d-flex bg-light px-4 py-2">
       <div class="w-60">Mud Therapy</div>
-      <div class="w-40 fw-600">$105</div>
+      <div class="w-40 fw-600">KES 4,600</div>
       </div>
       <div class="d-flex px-4 py-2">
       <div class="w-60">Hydrotherapy</div>
-      <div class="w-40 fw-600">$120</div>
+      <div class="w-40 fw-600">KES 5,300</div>
       </div>
       <div class="d-flex px-4 bg-light py-2">
       <div class="w-60">Wellness Consultation</div>
-      <div class="w-40 fw-600">$50</div>
+      <div class="w-40 fw-600">KES 2,100</div>
       </div>
     </div>
     </div>

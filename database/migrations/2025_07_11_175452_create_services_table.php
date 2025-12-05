@@ -13,7 +13,8 @@ return new class extends Migration
     {
         Schema::create('services', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('category_id')->constrained('service_categories')->onDelete('cascade');
+            $table->foreignId('category_id');
+            $table->foreign('category_id', 'fk_services_category_id')->references('id')->on('service_categories')->onDelete('cascade');
             $table->string('name', 150);
             $table->text('description')->nullable();
             $table->decimal('price', 8, 2);
